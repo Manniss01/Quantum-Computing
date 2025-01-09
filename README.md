@@ -1,1 +1,1 @@
-# Quantum-Computing 1
+# Quantum-Computing Lessons 
